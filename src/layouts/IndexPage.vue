@@ -1,3 +1,7 @@
 <template>
-  <page> Hola Mundo </page>
+  <page>
+    Hola Mundo
+
+    <div>Bienvenidos</div>
+  </page>
 </template>
